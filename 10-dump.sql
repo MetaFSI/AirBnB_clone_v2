@@ -16,7 +16,7 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
--- Drop database if it exists
+-- droped database if it exists
 DROP DATABASE IF EXISTS hbnb_dev_db;
 
 -- Create database + user if they don't exist
