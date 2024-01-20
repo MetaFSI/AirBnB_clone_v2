@@ -13,7 +13,7 @@ from models.review import Review
 
 
 class DBStorage:
-    """ DBStorage class """
+    """ DBStorage no class """
     __engine = None
     __session = None
 
