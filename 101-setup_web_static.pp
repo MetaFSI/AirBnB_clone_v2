@@ -1,4 +1,4 @@
-#some inf0rmation about a : Configures a web server for deployment of web_static.
+#some inf0rmation about : Configures a web server for deployment of web_static.
 
 #some inf0rmation about a : Nginx configuration file
 $nginx_conf = "server {
