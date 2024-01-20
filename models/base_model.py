@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""defini a une base de class de hbnb """
+"""define une base de class de hbnb """
 import uuid
 from datetime import datetime
 import sys
