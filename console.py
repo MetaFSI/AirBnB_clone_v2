@@ -15,7 +15,7 @@ from sqlalchemy import Column, String
 
 
 class HBNBCommand(cmd.Cmd):
-    """ contien de fonctionalité de hbnb"""
+    """ contiens de fonctionalité de hbnb"""
 
     # Anformation about: determines prompt for interactive/non-interactive modes
     prompt = '(hbnb) ' if sys.__stdin__.isatty() else ''
