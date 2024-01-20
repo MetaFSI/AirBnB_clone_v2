@@ -54,7 +54,7 @@ INSERT INTO `amenities` VALUES
 /*!40000 ALTER TABLE `amenities` ENABLE KEYS */;
 UNLOCK TABLES;
 
--- Table structure for table `cities`
+-- Table of an structure for table `cities`
 --
 DROP TABLE IF EXISTS `cities`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
