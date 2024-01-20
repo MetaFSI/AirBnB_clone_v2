@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
- Test access from a state
+ Test for access from a state
 """
 from models import storage
 from models.state import State
