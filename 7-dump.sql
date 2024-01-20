@@ -52,7 +52,7 @@ CREATE TABLE `cities` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `cities`
+-- Dumping the data for table `cities`
 --
 
 LOCK TABLES `cities` WRITE;
