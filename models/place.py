@@ -49,7 +49,7 @@ class Place(BaseModel, Base):
     if getenv("HBNB_TYPE_STORAGE", None) != "db":
         @property
         def reviews(self):
-            """get a list"""
+            """getting a list"""
             review_list = []
             for review in list(models.storage.all(Review).values()):
                 if review.place_id == self.id:
