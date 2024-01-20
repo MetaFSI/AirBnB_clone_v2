@@ -9,7 +9,7 @@ env.user = "ubuntu"
 
 
 def do_deploy(archive_path):
-    """ MMMMMMMMMMM"""
+    """ info about"""
     if not os.path.exists(archive_path):
         return False
 
