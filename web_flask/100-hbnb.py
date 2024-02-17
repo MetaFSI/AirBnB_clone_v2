@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 @app.route("/hbnb", strict_slashes=False)
 def hbnb():
-    """Displaying main HBnB filters HTML page."""
+    """Displays main HBnB filters HTML page."""
     states = storage.all("State")
     amenities = storage.all("Amenity")
     places = storage.all("Place")
